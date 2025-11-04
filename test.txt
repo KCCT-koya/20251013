@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-test“à—e•ÏX
-=======
-test
+Hello! world
+TEST
 
-shuusei
->>>>>>> 1104new
