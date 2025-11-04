@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 test“à—e•ÏX
+=======
+test
+
+shuusei
+>>>>>>> 1104new
